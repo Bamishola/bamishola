@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bamishola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bamishola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/bamishola">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Scientist+%26+AI+Engineer;Engineering+student+at+%C3%89cole+Centrale+de+Lyon;Building+with+LLMs+and+AI+agents;Designing+RAG+pipelines+that+ground+models+in+real+data;From+research+to+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineering+student+at+%C3%89cole+Centrale+de+Lyon;Building+with+LLMs+and+AI+agents;RAG+%C2%B7+Agents+%C2%B7+Claude+Code" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,58 +15,31 @@
 
 ---
 
-## 👋 About
+## 🧰 Stack
 
-- 🎓 Engineering student at **École Centrale de Lyon**, one of France's leading *grandes écoles* of engineering
-- 🤖 Focused on **applied AI**: large language models, retrieval-augmented generation and autonomous agents
-- 🧠 I design and ship AI-powered systems end to end, from model integration to a production web interface
-- 🛠️ Daily user of **Claude Code** and modern AI-assisted engineering workflows
-- 🌍 Interested in turning cutting-edge research into products that solve real problems
+<div align="center">
 
-## 🎯 Focus areas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0f2027?style=for-the-badge)
+![Agents](https://img.shields.io/badge/AI_Agents-0f2027?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-| | |
-|---|---|
-| 🧩 **LLM applications** | Prompt design, structured outputs, tool use, evaluation |
-| 🔎 **RAG** | Embeddings, vector search, grounding answers in private data |
-| 🕹️ **AI agents** | Multi-step reasoning, tool calling, workflow automation |
-| ⚙️ **Full-stack delivery** | Typed, tested, deployed applications around the models |
+</div>
 
-## 🧰 Tech stack
-
-**AI & machine learning**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0f2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agents-0f2027?style=for-the-badge" />
-</p>
-
-**Web & data**
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
-</p>
-
-**Workflow**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-## 📊 GitHub stats
+## 📊 Stats
 
 <div align="center">
 
@@ -85,7 +58,7 @@
 
 </div>
 
-## 🐍 Contribution snake
+## 🐍 Snake
 
 <div align="center">
 
@@ -96,11 +69,6 @@
 </picture>
 
 </div>
-
-## 📫 Let's connect
-
-I'm open to internships, research collaborations and projects around **LLMs, RAG and AI agents**.
-Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) or at **bamishola.loke@gmail.com**.
 
 <div align="center">
 
