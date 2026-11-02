@@ -1,12 +1,19 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bamishola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20full-stack%20·%20Élève%20ingénieur%20Centrale%20Lyon&descAlignY=58&descSize=18" width="100%" />
-
-<a href="https://github.com/bamishola">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Je+construis+MonProf229+%F0%9F%87%A7%F0%9F%87%AF;Next.js+%C2%B7+TypeScript+%C2%B7+Postgres;Je+transforme+des+id%C3%A9es+en+produits+utiles;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="260" align="center" valign="top">
+      <img src="https://github.com/bamishola.png" width="200" alt="Bamishola LOKE" />
+      <br/><br/>
+      <a href="mailto:bamishola.loke@gmail.com"><img src="https://img.shields.io/badge/bamishola.loke%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <br/>
+      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    </td>
+    <td valign="middle">
+      <h1>Bamishola LOKE</h1>
+      <h3>Computer Scientist &amp; AI Engineer</h3>
+      <p>Engineering student at École Centrale de Lyon</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -15,8 +22,6 @@
 - 🎓 Élève ingénieur à l'**École Centrale de Lyon**
 - 🇧🇯 Je développe **MonProf229**, une plateforme qui met en relation parents et enseignants pour des cours à domicile au Bénin
 - 🛠️ Je travaille surtout avec **Next.js, TypeScript, Tailwind et Postgres (Neon)**
-- 📫 Me contacter : <!-- TODO: ajoute ton lien LinkedIn / email public -->
-
 ## 🧰 Stack
 
 <div align="center">
