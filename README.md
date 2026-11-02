@@ -14,34 +14,6 @@
 
 
 
-<div align="center">
-
-<!-- Remplace le lien si le dépôt est public -->
-<a href="https://github.com/bamishola/monprof229">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamishola&repo=monprof229&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-## 📊 Statistiques
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bamishola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamishola&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=bamishola&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 📈 Activité
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bamishola&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
 ## 🐍 Mes contributions, version snake
 
 <div align="center">
