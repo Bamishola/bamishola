@@ -6,29 +6,13 @@
 
 ---
 
-## 👋 À propos
+- Artificial Intelligence: LLMs, RAG, AI Agents, MCP, LangChain, LLM APIs (Claude, OpenAI), Vector Databases, Fine-tuning, LLM Evaluation, Hugging Face, PyTorch
+- Machine Learning & Data: scikit-learn, pandas, NumPy, SQL, PostgreSQL, MongoDB
+- Software Engineering: Python, TypeScript, JavaScript, Java, C, React, Next.js, FastAPI, Tailwind CSS
+- Cloud & DevOps: AWS, Docker, Linux, CI/CD (GitHub Actions), Vercel, Neon
+- Tools: Git, GitHub, Claude Code, VS Code, Jupyter, Postman, MLflow, Weights & Biases
 
-- 🎓 Élève ingénieur à l'**École Centrale de Lyon**
-- 🇧🇯 Je développe **MonProf229**, une plateforme qui met en relation parents et enseignants pour des cours à domicile au Bénin
-- 🛠️ Je travaille surtout avec **Next.js, TypeScript, Tailwind et Postgres (Neon)**
 
-## 🧰 Stack
-
-<div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-## 🚀 Projet en vedette
 
 <div align="center">
 
