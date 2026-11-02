@@ -11,6 +11,7 @@
 - 🎓 Élève ingénieur à l'**École Centrale de Lyon**
 - 🇧🇯 Je développe **MonProf229**, une plateforme qui met en relation parents et enseignants pour des cours à domicile au Bénin
 - 🛠️ Je travaille surtout avec **Next.js, TypeScript, Tailwind et Postgres (Neon)**
+
 ## 🧰 Stack
 
 <div align="center">
