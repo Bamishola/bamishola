@@ -1,45 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bamishola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Scientist%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bamishola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeur%20full-stack%20·%20Élève%20ingénieur%20Centrale%20Lyon&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/bamishola">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Engineering+student+at+%C3%89cole+Centrale+de+Lyon;Building+with+LLMs+and+AI+agents;RAG+%C2%B7+Agents+%C2%B7+Claude+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Je+construis+MonProf229+%F0%9F%87%A7%F0%9F%87%AF;Next.js+%C2%B7+TypeScript+%C2%B7+Postgres;Je+transforme+des+id%C3%A9es+en+produits+utiles;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bamishola.loke@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
+## 👋 À propos
+
+- 🎓 Élève ingénieur à l'**École Centrale de Lyon**
+- 🇧🇯 Je développe **MonProf229**, une plateforme qui met en relation parents et enseignants pour des cours à domicile au Bénin
+- 🛠️ Je travaille surtout avec **Next.js, TypeScript, Tailwind et Postgres (Neon)**
+- 📫 Me contacter : <!-- TODO: ajoute ton lien LinkedIn / email public -->
+
 ## 🧰 Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-0f2027?style=for-the-badge)
-![Agents](https://img.shields.io/badge/AI_Agents-0f2027?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 📊 Stats
+## 🚀 Projet en vedette
+
+<div align="center">
+
+<!-- Remplace le lien si le dépôt est public -->
+<a href="https://github.com/bamishola/monprof229">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamishola&repo=monprof229&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+## 📊 Statistiques
 
 <div align="center">
 
@@ -50,7 +55,7 @@
 
 </div>
 
-## 📈 Activity
+## 📈 Activité
 
 <div align="center">
 
@@ -58,7 +63,7 @@
 
 </div>
 
-## 🐍 Snake
+## 🐍 Mes contributions, version snake
 
 <div align="center">
 
