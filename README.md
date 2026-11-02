@@ -1,19 +1,8 @@
-<table>
-  <tr>
-    <td width="260" align="center" valign="top">
-      <img src="https://github.com/bamishola.png" width="200" alt="Bamishola LOKE" />
-      <br/><br/>
-      <a href="mailto:bamishola.loke@gmail.com"><img src="https://img.shields.io/badge/bamishola.loke%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-      <br/>
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    </td>
-    <td valign="middle">
-      <h1>Bamishola LOKE</h1>
-      <h3>Computer Scientist &amp; AI Engineer</h3>
-      <p>Engineering student at École Centrale de Lyon</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="Bamishola LOKE — Computer Scientist & AI Engineer" />
+
+</div>
 
 ---
 
