@@ -12,6 +12,6 @@
 
 <div align="center">
 
-<img src="assets/education.svg" width="100%" alt="Education — École Centrale de Lyon (2025–2026, Lyon, France): Master's-level Engineering Degree, exchange year (3rd year), Computer Science & AI track. École Centrale Casablanca (2023–2025, Casablanca, Morocco): Centrale Engineering Programme, generalist track (years 1–2). IMSP — Institute of Mathematics and Physical Sciences (2019–2023, Dangbo, Benin): Preparatory Classes (CPGE) and Bachelor's in Computer Science." />
+<img src="assets/education-v2.svg" width="100%" alt="Education — École Centrale de Lyon (2025–2026, Lyon, France): Option Computer Science & AI, Intrapreneur / Entrepreneur track. École Centrale Casablanca (2023–2025, Casablanca, Morocco): Modelling and Decision Support, Complex Systems Engineering. IMSP — Institute of Mathematics and Physical Sciences (2019–2023, Dangbo, Benin): Classes Préparatoires aux Grandes Écoles (CPGE), Bachelor's degree in Computer Science." />
 
 </div>
