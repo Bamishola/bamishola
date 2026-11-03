@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Bamishola LOKE — Computer Scientist & AI Engineer" />
+<a href="https://www.linkedin.com/in/bamishola-loke/"><img src="assets/banner.svg" width="100%" alt="Bamishola LOKE — Computer Scientist & AI Engineer" /></a>
 
 </div>
 
