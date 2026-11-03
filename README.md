@@ -6,6 +6,12 @@
 
 <div align="center">
 
+<img src="assets/intro.svg" width="100%" alt="Hi, I'm Bamishola. I don't just use AI. I build it, and turn it into products that work. Everything is automatable and everything can be digitized. Your problem? I'm the solution." />
+
+</div>
+
+<div align="center">
+
 <img src="assets/skills-v2.svg" width="100%" alt="Skills — Artificial Intelligence: LLMs, RAG, AI Agents, MCP, Vector Databases, Fine-tuning, LLM Evaluation, PyTorch, Hugging Face, LangChain, Claude API, OpenAI API. Machine Learning & Data: scikit-learn, pandas, NumPy, SQL, PostgreSQL, MongoDB. Software Engineering: Python, TypeScript, JavaScript, Java, C, React, Next.js, FastAPI, Tailwind CSS, Automated Testing. Cloud & DevOps: AWS, Docker, Linux, CI/CD (GitHub Actions), Vercel, Neon. Tools: Git, GitHub, Claude Code, VS Code, Jupyter, Postman, MLflow, Weights & Biases." />
 
 </div>
