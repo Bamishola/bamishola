@@ -6,13 +6,11 @@
 
 ---
 
-- Artificial Intelligence: LLMs, RAG, AI Agents, MCP, LangChain, LLM APIs (Claude, OpenAI), Vector Databases, Fine-tuning, LLM Evaluation, Hugging Face, PyTorch
-- Machine Learning & Data: scikit-learn, pandas, NumPy, SQL, PostgreSQL, MongoDB
-- Software Engineering: Python, TypeScript, JavaScript, Java, C, React, Next.js, FastAPI, Tailwind CSS, Automated Testing
-- Cloud & DevOps: AWS, Docker, Linux, CI/CD (GitHub Actions), Vercel, Neon
-- Tools: Git, GitHub, Claude Code, VS Code, Jupyter, Postman, MLflow, Weights & Biases
+<div align="center">
 
+<img src="assets/skills.svg" width="100%" alt="Skills — Artificial Intelligence: LLMs, RAG, AI Agents, MCP, Vector Databases, Fine-tuning, LLM Evaluation, PyTorch, Hugging Face, LangChain, Claude API, OpenAI API. Machine Learning & Data: scikit-learn, pandas, NumPy, SQL, PostgreSQL, MongoDB. Software Engineering: Python, TypeScript, JavaScript, Java, C, React, Next.js, FastAPI, Tailwind CSS, Automated Testing. Cloud & DevOps: AWS, Docker, Linux, CI/CD (GitHub Actions), Vercel, Neon. Tools: Git, GitHub, Claude Code, VS Code, Jupyter, Postman, MLflow, Weights & Biases." />
 
+</div>
 
 ## 🐍 Mes contributions, version snake
 
