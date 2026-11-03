@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bamishola-loke/"><img src="assets/banner-v9.svg" width="100%" alt="Bamishola LOKE — Computer Scientist & AI Engineer. Hi, I'm Bamishola. I don't just use AI. I build it, and turn it into products that work. Everything is automatable and everything can be digitized. Your problem? I'm the solution." /></a>
+<a href="https://www.linkedin.com/in/bamishola-loke/"><img src="assets/banner-v10.svg" width="100%" alt="Bamishola LOKE — Computer Scientist & AI Engineer. Hi, I'm Bamishola. I don't just use AI. I build it, and turn it into products that work. Everything is automatable and everything can be digitized. Your problem? I'm the solution." /></a>
 
 </div>
 
